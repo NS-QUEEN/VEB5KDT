@@ -1,0 +1,30 @@
+[
+  {
+    "msg": "user commented on \"Sapiens\"",
+    "date": "2025-06-09T08:28:40.309Z"
+  },
+  {
+    "msg": "user commented on \"Atomic Habits\"",
+    "date": "2025-06-09T08:35:54.782Z"
+  },
+  {
+    "msg": "user commented on \"Sapiens\"",
+    "date": "2025-06-09T10:07:55.216Z"
+  },
+  {
+    "msg": "admin added book \"Темный лес\"",
+    "date": "2025-06-09T10:14:28.446Z"
+  },
+  {
+    "msg": "admin edited book \"Темный лес\"",
+    "date": "2025-06-09T10:16:51.371Z"
+  },
+  {
+    "msg": "admin deleted book \"Темный лес\"",
+    "date": "2025-06-09T10:17:20.591Z"
+  },
+  {
+    "msg": "user commented on \"The Hobbit\"",
+    "date": "2025-06-10T19:39:45.861Z"
+  }
+]

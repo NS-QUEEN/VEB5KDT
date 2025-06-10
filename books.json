@@ -1,0 +1,126 @@
+[
+  {
+    "id": 1,
+    "title": "Sapiens",
+    "authors": [
+      "Yuval Noah Harari"
+    ],
+    "year": 2011,
+    "genre": "History",
+    "comments": [
+      {
+        "user": "user",
+        "text": "Sapiens comm1 user",
+        "date": "2025-06-09T08:28:40.304Z"
+      },
+      {
+        "user": "user",
+        "text": "Sapient comm2",
+        "date": "2025-06-09T10:07:55.211Z"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Atomic Habits",
+    "authors": [
+      "James Clear"
+    ],
+    "year": 2018,
+    "genre": "Self-help",
+    "comments": [
+      {
+        "user": "user",
+        "text": "Atomic comment 1",
+        "date": "2025-06-09T08:35:54.777Z"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "The Hobbit",
+    "authors": [
+      "J.R.R. Tolkien"
+    ],
+    "year": 1937,
+    "genre": "Fantasy",
+    "comments": [
+      {
+        "user": "user",
+        "text": "comment1",
+        "date": "2025-06-10T19:39:45.861Z"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Clean Code",
+    "authors": [
+      "Robert C. Martin"
+    ],
+    "year": 2008,
+    "genre": "Programming",
+    "comments": []
+  },
+  {
+    "id": 5,
+    "title": "1984",
+    "authors": [
+      "George Orwell"
+    ],
+    "year": 1949,
+    "genre": "Dystopia",
+    "comments": []
+  },
+  {
+    "id": 6,
+    "title": "Thinking, Fast and Slow",
+    "authors": [
+      "Daniel Kahneman"
+    ],
+    "year": 2011,
+    "genre": "Psychology",
+    "comments": []
+  },
+  {
+    "id": 7,
+    "title": "To Kill a Mockingbird",
+    "authors": [
+      "Harper Lee"
+    ],
+    "year": 1960,
+    "genre": "Classic",
+    "comments": []
+  },
+  {
+    "id": 8,
+    "title": "Educated",
+    "authors": [
+      "Tara Westover"
+    ],
+    "year": 2018,
+    "genre": "Memoir",
+    "comments": []
+  },
+  {
+    "id": 9,
+    "title": "The Pragmatic Programmer",
+    "authors": [
+      "Andrew Hunt",
+      "David Thomas"
+    ],
+    "year": 1999,
+    "genre": "Programming",
+    "comments": []
+  },
+  {
+    "id": 10,
+    "title": "Crime and Punishment",
+    "authors": [
+      "Fyodor Dostoevsky"
+    ],
+    "year": 1866,
+    "genre": "Classic",
+    "comments": []
+  }
+]
